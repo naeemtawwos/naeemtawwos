@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naeemtawwos
+- 👋 Hi, I’m Naeem
 - 👀 I’m interested in PHP, Laravel, JavaScript, Python, GitHub and Language Learning Softwares
 - 🌱 I’m currently learning Laravel
 
